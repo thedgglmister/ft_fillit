@@ -3,7 +3,7 @@ The 2nd Project of the 42us curriculum.
 
 ### --Project Description--
 
-42_fillit is a project allowing you to familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be necessary to arrange Tetris pieces among themselves to determine the smallest possible square that can accommodate them.
+ft_fillit is a project allowing you to familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be necessary to arrange Tetris pieces among themselves to determine the smallest possible square that can accommodate them.
 
 The allowed functions are : ```exit, open, close, write, read, malloc and free```.
 
@@ -25,8 +25,8 @@ The Project is written in C and in accordance with "The Norm".
 
 ```
 • Open Terminal and run the following commands
-• git clone https://github.com/thedigglemister/42_fillit 42_fillit
-• cd 42_fillit
+• git clone https://github.com/thedigglemister/ft_fillit ft_fillit
+• cd ft_fillit
 • make
 • ./fillit -A -C -Z 4 -E -D test_pieces.fil
 ```
