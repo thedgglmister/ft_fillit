@@ -21,7 +21,7 @@ The Project is written in C and in accordance with "The Norm".
 • Forbidden functions are: [for] [do ... while] [switch] [case] [goto]
 ```
 
-### --Demo Instructions (MacOSX El Capitan)--
+### --Demo Instructions--
 
 ```
 • Open Terminal and run the following commands
