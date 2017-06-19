@@ -1,4 +1,4 @@
-# 42_fillit
+# ft_fillit
 The 2nd Project of the 42us curriculum.
 
 ### --Project Description--
