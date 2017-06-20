@@ -42,8 +42,8 @@ Whereas the project requires only a dispplay of the final piece placements, my f
     
 Without flags:
 
-![Without flags](/images/without_flags.png?raw=true | width=100)
+<img src="/images/without_flags.png" width="400">
 
 With flags:
 
-![With flags](/images/with_flags.png?raw=true | width=100)
+<img src="/images/with_flags.png" width="500">
