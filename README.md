@@ -24,7 +24,7 @@ The Project is written in C and in accordance with "The Norm".
 ### --Demo Instructions--
 
 ```
-• Open Terminal and run the following commands
+• Open Terminal (iTerm2 if you want color) and run the following commands
 • git clone https://github.com/thedigglemister/ft_fillit ft_fillit
 • cd ft_fillit
 • make
