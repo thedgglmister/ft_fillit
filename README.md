@@ -32,7 +32,7 @@ The Project is written in C and in accordance with "The Norm".
 ```
 ### --Flag Usage--
 
-Whereas the project requires only a dispplay of the final piece placements, my fillit supports a number of flags that can be used to add color, change the display size, as well as animate the recursive backtracking algorithm.
+Whereas the project requires only a display of the final piece placements, my fillit supports a number of flags that can be used to add color, change the display size, as well as animate the recursive backtracking algorithm.
 
     -C --color [int > 0 [-B --block]]
     -A --animate [0 < int < 100]
