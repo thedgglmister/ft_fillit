@@ -41,7 +41,9 @@ Whereas the project requires only a dispplay of the final piece placements, my f
     -D --data
     
 Without flags:
-![Without flags](/images/without_flags.png?raw=true)
+
+![Without flags](/images/without_flags.png?raw=true | width=100)
 
 With flags:
-![With flags](/images/with_flags.png?raw=true)
+
+![With flags](/images/with_flags.png?raw=true | width=100)
