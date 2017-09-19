@@ -1,9 +1,9 @@
 # ft_fillit
-The 2nd Project of the 42us curriculum.
+The 2nd Project of the 42 Silicon Valley curriculum.
 
 ### --Project Description--
 
-ft_fillit is a project allowing you to familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be necessary to arrange Tetris pieces among themselves to determine the smallest possible square that can accommodate them.
+"ft_fillit is a project allowing you to familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be necessary to arrange Tetris pieces among themselves to determine the smallest possible square that can accommodate them."
 
 The allowed functions are : ```exit, open, close, write, read, malloc and free```.
 
@@ -18,7 +18,7 @@ The Project is written in C and in accordance with "The Norm".
 • One single variable declaration per line; cannot stick declaration and initialisation on the same line
 • No more than 5 variables per bloc
 • No more than 4 parameters per function
-• Forbidden functions are: [for] [do ... while] [switch] [case] [goto]
+• Forbidden keywords are: [for] [do ... while] [switch] [case] [goto]
 ```
 
 ### --Demo Instructions--
